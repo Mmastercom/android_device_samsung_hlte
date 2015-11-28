@@ -18,11 +18,11 @@
 TARGET_OTA_ASSERT_DEVICE := hltexx,SM-N9005,hltetmo,SM-N900T,hltecan,SM-N900W8,hlteatt,SM-N900A,hlte,hlteskt,hltektt,SM-N900S,SM-N900K
 
 # Optimizations
-CLANG_O3 := true
-STRICT_ALIASING := false
-KRAIT_TUNINGS := false
-GRAPHITE_OPTS := false
-ENABLE_GCCONLY := true
+#CLANG_O3 := true
+#STRICT_ALIASING := false
+#KRAIT_TUNINGS := false
+#GRAPHITE_OPTS := false
+#ENABLE_GCCONLY := true
 
 # Rom Toolchain
 #TARGET_GCC_VERSION_EXP := 5.2-uber
