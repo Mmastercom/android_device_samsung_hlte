@@ -25,7 +25,7 @@ GRAPHITE_OPTS := false
 ENABLE_GCCONLY := true
 
 # Rom Toolchain
-TARGET_GCC_VERSION_EXP := 5.2-uber
+#TARGET_GCC_VERSION_EXP := 5.2-uber
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
